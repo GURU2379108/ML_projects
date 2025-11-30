@@ -152,13 +152,3 @@ This is a ready-to-use Streamlit application for **stock price prediction** and 
 Add your `.pkl` models, run the app, and you're good to go.
 
 ---
-
-### 👍 Need extras?
-
-If you want:
-
-* `requirements.txt`
-* GitHub description
-* App logo
-* Custom theme for Streamlit
-
