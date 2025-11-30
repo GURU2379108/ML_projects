@@ -1,5 +1,5 @@
 
-# ✅ **README.md — FULL COPY-PASTE VERSION**
+# ✅ **Stock Market Prediction Web App**
 
 ```markdown
 # 📈 Stock Market Prediction Web App (Streamlit)
